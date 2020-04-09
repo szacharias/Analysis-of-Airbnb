@@ -3,12 +3,7 @@ Objective : To predict the right factors that affect pricing on the Airbnb marke
 
 Data:​​https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
-Lookingatthemarketfromadifferentperspective,insteadofpredictingwhattoexpectforagivenpricepointforanAirbnbroom,
+Looking at the market from a different perspective, instead of predicting what to expect for a given price point for an Airbnb room,
 
-we'retryingtogiveinsightstonewhostsonwhetherthepriceforhisnewroomwillbefairorwouldthepricebeoveraggressive,orwhethertherewillbeamarketforhisnewroomonceit'sonline.Ourmaintargetswillincludetheavailabilityoftheroomthroughouttheyear and review accumulated since these are closest to indication of the popularity of the room.Presentation Preference:​ Online
-
-``` javascript
-
-print("try this")
-
-```
+we're trying to give insights to new hosts on whether the price for his new room will be fair or would the price be over aggressive, or whether there will be a market for his new room once it's online.Our main targets will include the availability of the room throughout the year and review accumulated since these are closest to indication of the popularity of the room.Presentation Preference:​ Online
+ 
